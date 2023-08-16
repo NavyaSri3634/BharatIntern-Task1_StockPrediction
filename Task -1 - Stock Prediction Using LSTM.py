@@ -5,7 +5,7 @@
 
 # ## Task 1 : Stock Prediction Using LSTM: 
 
-# ----By Devalla Ganesh Babu
+# ----By Gollapothu Navya Sri
 
 # Stock market prediction and forecasting are crucial tasks in the field of finance. Predicting the future trends and prices of stocks can assist investors, traders, and financial institutions in making informed decisions. In this project, we aim to predict and forecast the stock prices of the company "AMAZON(Amazon.csv)" using a Stacked Long Short-Term Memory (LSTM) model.
 
